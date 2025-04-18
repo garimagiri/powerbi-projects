@@ -29,4 +29,4 @@ Each folder contains:
 - 📄 `README.md` with project overview, tools, and insights
 
 ## 🚀 Get in Touch
-For more information or to collaborate, feel free to connect with me on [LinkedIn](linkedin.com/in/garimagoswami-fd/) 
+For more information or to collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/garimagoswami-fd/) 
