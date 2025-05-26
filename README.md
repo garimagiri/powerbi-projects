@@ -1,6 +1,6 @@
 # 📁 Power BI Projects Portfolio
 
-This repository showcases a collection of Power BI dashboards built to demonstrate my data analytics and visualization skills. Each project involves real-world datasets and applies concepts like data cleaning, modeling, DAX calculations, and storytelling through visualizations.
+This repository showcases a collection of projects to demonstrate my data analytics and visualization skills. Each project involves real-world datasets and applies concepts like data cleaning, modeling, DAX calculations, and storytelling through visualizations.
 
 ## 🧠 Skills Demonstrated
 - Data Cleaning & Transformation (Power Query)
