@@ -32,4 +32,10 @@ This project presents a comprehensive sales analysis of Blinkit using Microsoft 
 - Pivot Tables and Charts
 - Slicers for Interactivity
 
+
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](screenshots/dashboard.png)
+
+
 Feel free to explore the Excel file for a detailed view of the analysis.
