@@ -35,7 +35,7 @@ This project presents a comprehensive sales analysis of Blinkit using Microsoft 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](blinkit_dashboard.png)
 
 
 Feel free to explore the Excel file for a detailed view of the analysis.
