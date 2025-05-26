@@ -11,16 +11,19 @@ This repository showcases a collection of projects to demonstrate my data analyt
 
 ## 📂 Projects Included
 
-### 1. 🏅 Paralympic Dashboard
+### 1. 🛒 Blinkit Sales Dashboard
+An interactive Excel dashboard analyzing Blinkit's sales data using pivot tables and slicers. Highlights KPIs like total sales, average sales, number of items, and performance by outlet type, location, and item category.
+
+### 2. 🏅 Paralympic Dashboard
 Analyzes historical Paralympic data (1968–2018) to explore medal distribution, athlete participation, and performance trends.
 
-### 2. 💰 Financial Sales Analysis
+### 3. 💰 Financial Sales Analysis
 Visualizes product-wise financial performance across regions, uncovering patterns in sales and profitability using advanced DAX functions.
 
-### 3. 🛍️ Product Sales Analysis
+### 4. 🛍️ Product Sales Analysis
 Utilizes a star schema model to analyze sales metrics across various categories including product, sub-product, payment mode, and geography.
 
-### 4. 📦 Amazon Sales Dashboard
+### 5. 📦 Amazon Sales Dashboard
 Evaluates sales data from 2011–2014 to identify top-performing regions and categories, and compares annual performance metrics.
 
 ## 📄 File Structure
