@@ -53,4 +53,10 @@ This Tableau dashboard provides a comprehensive analysis of electric vehicle (EV
 
 ---
 
+## 📁 Dataset Source
+
+- [Electric Vehicle Population Data – Kaggle](https://www.kaggle.com/datasets/?search=electric+vehicle+population+data)
+  
+---
+
 Feel free to fork, explore, and build on this project!
