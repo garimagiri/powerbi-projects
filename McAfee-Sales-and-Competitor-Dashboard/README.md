@@ -39,6 +39,13 @@ The goal is to track key business metrics, sales trends, and compare McAfee with
 
 ---
 
+## 🔗 Dashboard Preview
+
+📷 **[McAfee Dashboard Preview](McAfee_dashboard.png)**  
+
+---
+
+
  Note:- Sales and competitor data used here are dummy/sample datasets for visualization purposes.
 
 ---
