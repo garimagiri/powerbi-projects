@@ -41,12 +41,14 @@ The goal is to track key business metrics, sales trends, and compare McAfee with
 
 ## 🔗 Dashboard Preview
 
-📷 **[McAfee Dashboard Preview](McAfee_dashboard.png)**  
+📷 **[McAfee Sales Preview](McAfee_sales_dashboard.png)**  
+📷 **[McAfee competitor Preview](McAfee_competitor_dashboard.png)** 
 
 ---
 
+Note:- Sales and competitor data used here are dummy/sample datasets for visualization purposes.
 
- Note:- Sales and competitor data used here are dummy/sample datasets for visualization purposes.
+Disclaimer:- This `.pbix` file is provided for learning and portfolio purposes only. If you download it, please use it responsibly.
 
 ---
 
